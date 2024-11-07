@@ -4,7 +4,7 @@
     }
 </style>
 
- <span class="red-text">Pandas_Bootcamp</span>
+ # <span class="red-text">Pandas_Bootcamp</span>
 
  ###          _(Introduction to Pandas, Leetcode)_
  ###                       [LeetCode](https://leetcode.com/studyplan/introduction-to-pandas/)
