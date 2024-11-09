@@ -32,7 +32,7 @@
 ### _[4.3. Modify Columns](https://gitlab.com/VlaSTitle1998/pandas_bootcamp/-/tree/develop/004.Data_Cleaning/Modify_Columns?ref_type=heads)_
 > Данная программа изменяет колонку salary, умножая её значения на 2 (решено 2 способами)
 ### _[4.4. Rename Columns](https://gitlab.com/VlaSTitle1998/pandas_bootcamp/-/tree/develop/004.Data_Cleaning/Rename_Columns?ref_type=heads)_
-> Данная программа переименовывает названия всех колонок(решеноо 2 способами)
+> Данная программа переименовывает названия всех колонок(решено 2 способами)
 ### _[4.5. Change Data Type](https://gitlab.com/VlaSTitle1998/pandas_bootcamp/-/tree/develop/004.Data_Cleaning/Change_Data_Type?ref_type=heads)_
 > Данная программа изменяет тип данных с float на int
 ### _[4.6. Fill Missing Data](https://gitlab.com/VlaSTitle1998/pandas_bootcamp/-/tree/develop/004.Data_Cleaning/Fill_Missing_Data?ref_type=heads)_
